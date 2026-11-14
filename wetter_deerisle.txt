@@ -1,0 +1,8 @@
+stand;2026-11-14 21:29:46
+bewoelkung;0.265115
+regen;0
+nebel;0.0254958
+schnee;0
+wind;10.5631
+temp;18.3214
+ingame;13:15
